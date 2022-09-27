@@ -8,12 +8,15 @@
 3) HC05 Wifi module
 4) Breadboard and jumper wires
 5) USB cable
+
+
 ###Software Required
 1) Arduino IDE
 2) Arduino Automation App
 
 ### The Circuit Diagram is as shown
 ![Circuit diagram](https://drive.google.com/file/d/1YraTzeK5s4ir3jBVKkRZr1Ayc6DnRTCT/view?usp=sharing)
+
 
 
 
