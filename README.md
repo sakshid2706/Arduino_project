@@ -5,7 +5,7 @@
 ### Materials Required
 1) Arduino UNO
 2) LCD display(16*2)
-3) HC05 Wifi module
+3) HC05 Bluetooth module
 4) Breadboard and jumper wires
 5) USB cable
 
