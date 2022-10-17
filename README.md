@@ -1,6 +1,6 @@
 #### Arduino_project
 
-#Bluetooth controlled LCD display using arduino.
+# Bluetooth controlled LCD display using arduino.
 
 ### Materials Required
 1) Arduino UNO
