@@ -10,7 +10,7 @@
 5) USB cable
 
 
-###Software Required
+### Software Required
 1) Arduino IDE
 2) Arduino Automation App
 
