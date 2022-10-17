@@ -15,7 +15,7 @@
 2) Arduino Automation App
 
 ### The Circuit Diagram is as shown
-![Circuit diagram](https://drive.google.com/file/d/1YraTzeK5s4ir3jBVKkRZr1Ayc6DnRTCT/view?usp=sharing)
+[Circuit diagram](https://drive.google.com/file/d/1YraTzeK5s4ir3jBVKkRZr1Ayc6DnRTCT/view?usp=sharing)
 
 
 
